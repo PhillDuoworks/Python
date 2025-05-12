@@ -1,5 +1,6 @@
 # Write your code below this line 👇
-t = "fred"
-c = "jane"
-print(t+" "+c)
+name = input("Your birth town? ")
+
+print("Birth town:"+name)
+
 
